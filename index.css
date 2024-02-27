@@ -4,7 +4,8 @@
 body {
   font-family:  sans-serif;
   /* font-family: Avenir Next, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, system-ui, -apple-system, sans-serif; */
-  background: #f8f8f8; /* Smoky white background */
+  background: #f8f8f8; 
+  /* background: #fbfcfe; */
   color: #333;
   margin: 0;
   padding: 0;
